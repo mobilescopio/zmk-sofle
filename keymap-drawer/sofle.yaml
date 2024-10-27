@@ -42,14 +42,14 @@ layers:
   - .
   - $$mdi:apple-keyboard-shift$$
   - Z
+  - Z
   - X
   - C
   - V
-  - B
   - $$mdi:arrow-right-bold$$
+  - B
   - N
   - M
-  - {t: ',', s: <}
   - {t: ., s: '>'}
   - {t: /, s: '?'}
   - {t: '$$mdi:keyboard-return$$', type: enter}
